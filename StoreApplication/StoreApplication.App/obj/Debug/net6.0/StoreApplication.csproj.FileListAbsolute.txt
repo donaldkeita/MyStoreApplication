@@ -1,0 +1,15 @@
+C:\revature\MyStoreApplication\StoreApplication\StoreApplication.App\obj\Debug\net6.0\StoreApplication.csproj.AssemblyReference.cache
+C:\revature\MyStoreApplication\StoreApplication\StoreApplication.App\obj\Debug\net6.0\StoreApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\revature\MyStoreApplication\StoreApplication\StoreApplication.App\obj\Debug\net6.0\StoreApplication.AssemblyInfoInputs.cache
+C:\revature\MyStoreApplication\StoreApplication\StoreApplication.App\obj\Debug\net6.0\StoreApplication.AssemblyInfo.cs
+C:\revature\MyStoreApplication\StoreApplication\StoreApplication.App\obj\Debug\net6.0\StoreApplication.csproj.CoreCompileInputs.cache
+C:\revature\MyStoreApplication\StoreApplication\StoreApplication.App\bin\Debug\net6.0\StoreApplication.exe
+C:\revature\MyStoreApplication\StoreApplication\StoreApplication.App\bin\Debug\net6.0\StoreApplication.deps.json
+C:\revature\MyStoreApplication\StoreApplication\StoreApplication.App\bin\Debug\net6.0\StoreApplication.runtimeconfig.json
+C:\revature\MyStoreApplication\StoreApplication\StoreApplication.App\bin\Debug\net6.0\StoreApplication.dll
+C:\revature\MyStoreApplication\StoreApplication\StoreApplication.App\bin\Debug\net6.0\StoreApplication.pdb
+C:\revature\MyStoreApplication\StoreApplication\StoreApplication.App\obj\Debug\net6.0\StoreApplication.dll
+C:\revature\MyStoreApplication\StoreApplication\StoreApplication.App\obj\Debug\net6.0\refint\StoreApplication.dll
+C:\revature\MyStoreApplication\StoreApplication\StoreApplication.App\obj\Debug\net6.0\StoreApplication.pdb
+C:\revature\MyStoreApplication\StoreApplication\StoreApplication.App\obj\Debug\net6.0\StoreApplication.genruntimeconfig.cache
+C:\revature\MyStoreApplication\StoreApplication\StoreApplication.App\obj\Debug\net6.0\ref\StoreApplication.dll
