@@ -20,5 +20,9 @@ namespace StoreApplication.App
             this.quantity = quantity;
             this.cost = cost;
         }
+
+        public string getproductType() {
+            return productType;
+        }
     }
 }

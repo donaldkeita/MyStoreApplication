@@ -7,10 +7,12 @@ namespace StoreApplication.App
     public class Order
     {
         // Fields
+        private int orderID;
         private int customerID;
         private string location;
         private DateTime time;
         private int productID;
+        private int quantity;
 
         public Order(int customerID, int productID, string location, DateTime time) {
             this.customerID = customerID;

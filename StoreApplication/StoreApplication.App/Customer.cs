@@ -7,6 +7,7 @@ namespace StoreApplication
     public class Customer
     {
         // Fields
+        private int customerID;
         private String firstName;
         private String lastName;
         private String phoneNumber;
@@ -14,7 +15,8 @@ namespace StoreApplication
 
         //public Customer() {}
 
-        public Customer(string firstName, string lastName, string phoneNumber) {
+        public Customer(int customerID, string firstName, string lastName, string phoneNumber) {
+            this.customerID = customerID;
             this.firstName = firstName;
             this.lastName = lastName;
             this.phoneNumber = phoneNumber;
